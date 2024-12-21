@@ -1,0 +1,11 @@
+GUID bb374ed5c45d4f87bec356e6f213328e
+Type Supply
+ID 31007
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Blueprints 0
+
+InventoryAudio Sounds/Inventory/SmallMetal.asset
